@@ -1,1 +1,1 @@
-##### Проект по музыкальной платформе. Анализ продления подписки пользователей с месяца на месяц.
+##### Music platform project. Analysis of user subscription renewal from month to month.
